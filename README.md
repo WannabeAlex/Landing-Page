@@ -1,4 +1,4 @@
-#Landing Page
+# Landing Page
 
 Made for [The Odin Project](https://www.theodinproject.com)'s curriculum.
 
